@@ -5,13 +5,13 @@
 
 <div id="socials" align="center" >
 <a href="https://t.me/tatyanaPolonskaia">
-<img src="https://img.shields.io/badge/Telegram-green?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+<img src="https://img.shields.io/badge/Telegram-purple?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 <a href="https://career.habr.com/tatiana_polonskaia">
-<img src="https://img.shields.io/badge/Habr-green?style=for-the-badge&logo=habr&logoColor=white" alt="Habr"/>
+<img src="https://img.shields.io/badge/Habr-purple?style=for-the-badge&logo=habr&logoColor=white" alt="Habr"/>
 </a>
 <a href="mailto:tatiana.polonskaia@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://img.shields.io/badge/Gmail-purple?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 </div>
 
