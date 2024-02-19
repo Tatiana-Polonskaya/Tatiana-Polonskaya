@@ -19,7 +19,6 @@
 
 - 🌱 I’m currently learning **React, Typescript, Next.js**
 - 📝 I regularly write articles on [Elibrary](https://elibrary.ru)
-- 📄 Know about my experiences [CV](https://career.habr.com/tatiana_polonskaia)
 - 🌍 I speak Russian(native) and English(B2)
 
 ### Languages and tools
